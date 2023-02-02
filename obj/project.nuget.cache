@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9WwHAgYkWzFtQr07xNKtfp8+XKUxIfdc5LbCEqbjWk7BF08uHDlcwDDRUO1Z3vFs1fjlyTcsw2v4onhB9nqnA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\uimon\\logging_assingment\\LoggingAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uimon\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
+    "C:\\Users\\uimon\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\uimon\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\uimon\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\uimon\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\uimon\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\uimon\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
